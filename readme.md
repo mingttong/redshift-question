@@ -3,6 +3,8 @@
 ## Usage
 
 ```
+$ git clone https://github.com/mingttong/redshift-question.git
+$ cd redshift-question
 $ node server.js
 ```
 
